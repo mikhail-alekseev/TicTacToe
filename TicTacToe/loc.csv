@@ -1,0 +1,16 @@
+key,english,russian,german
+GameName,Tic-Tac-Toe,Крестики-Нолики,Kreis und Kreuz
+LangName,English,Русский,Deutsch
+NewGame,Start,Начать,Start
+QuitGame,Quit,Выйти,Verlassen
+Stats,Stats,Статистика,Statistiken
+Wins,Wins,Побед,Gewinnt
+Losses,Losses,Поражений,Verluste
+WinRatio,Win Ratio,Процент Побед,Gewinn-Verhältnis
+Draw,DRAW!,НИЧЬЯ!,UNENTSCHIEDEN!
+EnemyTurn,Enemy“s Turn,Ход Соперника,Der Feind ist an der Reihe
+YourTurn,Your Turn,Твой Ход,Du bist dran
+YouWin,YOU WIN!,ПОБЕДА!,GEWINN!
+YouLose,YOU LOSE!,ПОРАЖЕНИЕ!,VERLUST!
+Retry,Retry,Заново,Wiederholen
+MainMenu,Main Menu,Главное Меню,Hauptmenü
